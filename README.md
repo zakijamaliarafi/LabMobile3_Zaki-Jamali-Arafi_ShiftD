@@ -20,6 +20,8 @@ Menggunakan Drawer untuk menampilkan menu samping dengan opsi navigasi. Di dalam
 # 4. aboutpage.dart
 Halaman ini menampilkan informasi sederhana tentang aplikasi, yaitu "Aplikasi untuk mencatat jadwal perkuliahan".
 
+
+# Screenshot
 ![Lampiran Login](img/login.png)
 ![Lampiran Home](img/home.png)
 ![Lampiran Home 2](img/home2.png)
